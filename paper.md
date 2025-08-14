@@ -33,25 +33,46 @@ Email: stephane.cook@unifr.ch
 
 Dear Editor,
 
+
+
 The intersection of ischemic heart disease and cancer represents a critical challenge in modern medicine. While previous studies have reported increased mortality in cancer patients experiencing acute myocardial infarction (1-3), the precise impact on cancer-specific survival and potential mechanisms remain undefined. We hypothesized that ST-elevation myocardial infarction (STEMI) in cancer patients may result in diagnostic delays, and we aimed to assess whether successful primary PCI restores expected cancer-specific survival in these patients.
+
+
 
 We analyzed data from the EVALFAST registry, a prospective cohort of all STEMI patients undergoing primary PCI managed through the Fribourg fast-track network since June 2008 (NCT04185285). Among 1,330 consecutive STEMI patients enrolled through November 2024, we identified 30 that underwent successful primary PCI with TIMI 3 flow restoration and with a active malignancy undergoing chemotherapy (last cycle up to 3 months before STEMI diagnosis). For each cancer patient, we calculated the relative survival ratio (RSR) as observed survival divided by expected cancer-specific survival based on Swiss population registry data matched by cancer type, stage, age, and sex. Time intervals from first medical contact (FMC) to diagnosis, catheterization laboratory arrival, and balloon inflation were prospectively captured. We compared these intervals between cancer and non-cancer patients using generalized linear models, and tested whether mean RSR differed from 1.0 using a one-sample t-test on log-transformed values (α=0.05, one-sided).
 
+
+
 Among cancer patients (mean age 71.9±8.8 years, 76.7% male), predominant malignancies were lung (26.7%), prostate (20.0%), and renal cell carcinoma (10.0%). Most presented with advanced disease (stage III-IV: 56.7%). Median time from cancer diagnosis to STEMI was 148 days (IQR: 80-212 days). Six patients were actively receiving anthracycline therapy.
+
+
 
 Using generalized linear models, we compared STEMI presentation times between cancer and non-cancer patients. Time from pain onset to first medical contact (FMC) was similar between groups (mean difference: -18.4 minutes, 95% CI: -69.7 to 32.8, p=0.48). However, FMC-to-diagnosis time was significantly prolonged in cancer patients (+11.3 minutes, 95% CI: 0.6-22.0, p=0.038). Total FMC-to-balloon time showed non-significant prolongation (+3.0 minutes, 95% CI: -1.5 to 7.6, p=0.19).
 
+
+
 Despite successful revascularization, mean RSR was 0.493 (95% CI: 0.174-0.427; p<0.001), indicating that cancer patients achieved only half of expected cancer-specific survival even after restoration of TIMI 3 flow. The survival distribution revealed that 50% demonstrated severely reduced survival (RSR<0.50), 30% moderately reduced survival (RSR 0.50-0.89), and only 20% maintained near-expected survival (RSR≥0.90).
 
-Subgroup analyses revealed marked heterogeneity by cancer type and stage. Lung cancer patients had uniformly poor outcomes (mean RSR 42.6%), while prostate cancer patients showed relatively preserved survival (87.8%). Renal cancer patients experienced poor outcomes (mean RSR 0.5%). A stage-dependent gradient emerged: stage I (86.4%), stage II (46.6%), stage III (74.0%), and stage IV (20.8%). Early-stage disease (I-II) had a mean RSR of 69.5% versus 38.9% for advanced disease (III-IV).
+
+
+Subgroup analyses revealed marked heterogeneity by cancer type and stage. Lung cancer patients had uniformly poor outcomes (mean RSR 42.6%), while prostate cancer patients showed relatively preserved survival (87.8%) (Figure 1). Renal cancer patients experienced poor outcomes (mean RSR 0.5%). A stage-dependent gradient emerged: stage I (86.4%), stage II (46.6%), stage III (74.0%), and stage IV (20.8%). Early-stage disease (I-II) had a mean RSR of 69.5% versus 38.9% for advanced disease (III-IV).
+
+
 
 Our findings reveal that despite timely and successful revascularization with primary PCI, STEMI still halves expected survival in cancer patients, suggesting that coronary reperfusion alone cannot reverse the systemic damage triggered by the acute event. This 50% reduction in expected survival represents a clinically meaningful effect size that exceeds the impact of many cancer progression events. The consistency across cancer types suggests STEMI triggers systemic pathophysiologic cascades detrimental to cancer outcomes, potentially including prothrombotic states, inflammatory activation, and treatment interruptions.
 
+
+
 This study is unique in several aspects. While previous studies reported increased mortality in cancer patients with STEMI (1-3), ours is, to our knowledge, the first to quantify the relative survival ratio comparing observed to expected cancer-specific survival. Additionally, we identified for the first time, to our knowledge, significant diagnostic delays (11.3-minute prolongation in FMC-to-diagnosis time, p=0.038), suggesting a potential mechanism for worse outcomes. These results underscore first the importance of aggressive cardiovascular risk modification in cancer patients. Second, they may support enhanced cardio-oncology surveillance protocols for early detection of cardiovascular compromise. Third, the identified diagnostic delays warrant specific protocols to expedite STEMI recognition in cancer patients.
+
+
 
 Study limitations include modest sample size, retrospective design, and reliance on historical survival estimates for most patients. Due to insufficient patient numbers, adjustment for covariates is not feasible given the risk of overfitting. Furthermore, the EVALFAST registry only includes patients with STEMI receiving primary PCI, and no data are available for patients with active cancer who did not receive revascularization. The significant delay in STEMI diagnosis among cancer patients warrants further investigation, as diagnostic delays may contribute to worse outcomes. Future research should explore mechanisms underlying this dramatic survival reduction and evaluate whether cardioprotective strategies can mitigate these outcomes.
 
+
+
 In conclusion, STEMI represents a critical event in active cancer patients, halving expected survival regardless of cancer type or stage, even when coronary flow is successfully restored through primary PCI. The observed diagnostic delays in cancer patients may contribute to these poor outcomes. These findings mandate integrated cardio-oncology care models prioritizing cardiovascular prevention, early recognition, and rapid intervention to preserve both cardiac function and cancer outcomes.
+
 \newpage
 
 # Figures
@@ -59,11 +80,10 @@ In conclusion, STEMI represents a critical event in active cancer patients, halv
 **Figure 1. Kaplan-Meier curves for observed and expected survival in cancer patients with STEMI**
 
 ::: {custom-style="center"}
-![Study flowchart](figures/fig1.png "Figure 1 – Kaplan-Meier curves for observed and expected survival in cancer patients with STEMI"){width=100%
+![](figures/fig1.png "Figure 1 – Kaplan-Meier curves for observed and expected survival in cancer patients with STEMI"){width=100%
 }
 :::
 
-Kaplan-Meier curves for observed and expected survival in cancer patients with STEMI.
 RSR, relative survival ratio.
 
 

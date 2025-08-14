@@ -1,23 +1,24 @@
-::: {custom-style="left"} 
-Dorian Garin, MD
-Department of Cardiology
-University and Hospital Fribourg
-CH-1708 Fribourg, Switzerland
-dorian.garin@unifr.ch
+::: {custom-style="left"}
+**Dorian Garin, MD**  
+Department of Cardiology  
+University and Hospital Fribourg  
+CH-1708 Fribourg, Switzerland  
+dorian.garin@unifr.ch  
 :::
 
-::: {custom-style="right"} 
-Editor-in-Chief
+::: {custom-style="right"}
+**Editor-in-Chief**  
 JACC: CardioOncology
 :::
 
-::: {custom-style="left"} 
-Fribourg, August 14, 2025 
+::: {custom-style="left"}
+Fribourg, August 14, 2025
 :::
 
-::: {custom-style="left"} 
-Manuscript submission - "ST-Elevation Myocardial Infarction Halves Expected Survival in Cancer Patients Even After Effective Revascularization" 
+::: {custom-style="left"}
+**Manuscript submission - "ST-Elevation Myocardial Infarction Halves Expected Survival in Cancer Patients Even After Effective Revascularization"**
 :::
+
 
 Dear Editor and Editorial Team,
 
