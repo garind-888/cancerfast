@@ -35,7 +35,7 @@ Dear Editor,
 
 
 
-The intersection of cardiovascular disease and cancer represents a critical challenge in modern medicine. While previous studies have reported increased mortality in cancer patients experiencing acute myocardial infarction (1-3), the precise impact on cancer-specific survival and potential mechanisms remain undefined. We hypothesized that ST-elevation myocardial infarction (STEMI) significantly worsens cancer-specific survival and that diagnostic delays may contribute to poor outcomes.
+The intersection of ischemic heart disease and cancer represents a critical challenge in modern medicine. While previous studies have reported increased mortality in cancer patients experiencing acute myocardial infarction (1-3), the precise impact on cancer-specific survival and potential mechanisms remain undefined. We hypothesized that ST-elevation myocardial infarction (STEMI) cancer patient may have diagnostic delays and we aimed to assess the long term survival outcome of those patient.
 
 
 
